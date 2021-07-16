@@ -1,6 +1,4 @@
-<div align="center">
-<img width="480" height = "360px" src="https://i.imgur.com/rbSedu6.gif" alt="cover" />
-</div>
+
 
 <h1>Ola linda</h1>
 <p align='center'>
