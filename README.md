@@ -38,6 +38,5 @@
 <br>
 
 
-<h2> Estado de mi Github</h2>
 
 
