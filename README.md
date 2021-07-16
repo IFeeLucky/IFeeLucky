@@ -1,5 +1,5 @@
 <div align="center">
-<img width="100%" height = "250px" src="https://images-ext-2.discordapp.net/external/SfTvE1zAzoVCJUa6aCCcEcaH3Pgk1hAmY9zRkGwWFp0/%3Fsize%3D1024/https/cdn.discordapp.com/avatars/829454755285827644/a_01f19f553919f34dcfdaab5eca65d422.gif?width=360&height=360" alt="cover" />
+<img width="480" height = "360px" src="https://i.imgur.com/rbSedu6.gif" alt="cover" />
 </div>
 
 <h1>Ola linda</h1>
