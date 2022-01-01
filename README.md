@@ -31,10 +31,7 @@
 <a target = "_blank" href = 'https://www.github.com/IFeeLucky'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
 
 
-<h2> Cosas que he trabajado esta semana</h2>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@&compact=True"/>
-</a>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ifeellucky&hide_border=true&layout=compact&show_icons=true&title_color=fff&icon_color=2da676&text_color=9f9f9f&bg_color=00000000" />
 <br>
 
 
