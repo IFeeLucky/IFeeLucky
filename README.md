@@ -2,7 +2,7 @@
 
 <h1>Ola linda</h1>
 <p align='center'>
-[![DiscordProfileBanner](https://discord.c99.nl/widget/theme-2/928711642466885662.png)
+![DiscordProfileBanner](https://discord.c99.nl/widget/theme-2/928711642466885662.png)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=IFeeLucky.IFeeLucky)
 
 </p>
