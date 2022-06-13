@@ -10,7 +10,7 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=IFeeLucky.IFeeLucky)
 
 </p>
-<div size='20px'> My discord -> Lvcky#7351
+<div size='20px'> Mi discord -> Lvcky#7351
 </div>
 
 <h2> About Me </h2>
